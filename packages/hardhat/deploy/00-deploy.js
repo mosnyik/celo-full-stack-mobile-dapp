@@ -66,3 +66,10 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
 };
 
 module.exports.tags = ["Greeter", "Storage", "SupportToken"];
+
+
+/*
+PRIVATE_KEY="0xc5dda3c01665c70874d9e82ed5a253ede7bf61b185326c2ed8fdca90c590a77d"
+
+Your account address:  0xE9C3FdbDfc484ee6DF73c37E0A312ECdaE175a09
+*/ 
